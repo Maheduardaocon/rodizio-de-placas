@@ -1,0 +1,55 @@
+button {
+    background-color: #474fbe;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 70px;
+}
+
+input[type="text"],
+input[type="hidden"]{
+    width: 40%;
+    padding: 15px 32px;
+    font-size: 14px;
+    border-radius: 9px;
+    margin-bottom: 10px;
+    
+}
+
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #a2a6e9;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+
+}
+
+button {
+    background-color: #6547be;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+
+}
+
+.div1{
+    background-color: #6547be;
+    padding: 3px;
+    margin-bottom: 20px;
+    border-radius: 9px;
+    
+}
+
+
